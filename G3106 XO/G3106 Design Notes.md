@@ -142,7 +142,7 @@ $\cfrac{\Delta f}{f_0}\approx \cfrac{-C_p}{2\times C_0}$
 
 而 $C_0\approx 4pF$，那么 $C_p\approx 2\times C_0\times \cfrac{|\Delta f|}{f_0}\approx 2\times 4pF\times 0.000142\approx 1.1pF$
 
-受PCB分布电容（2~3pF）影响，实际需要2~4pF电容，图中的4.7pF是实验所得数值。
+受PCB分布电容（2-3pF）影响，实际需要2-4pF电容，图中的4.7pF是实验所得数值。
 
 ### 跟随级
 
